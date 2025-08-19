@@ -2,7 +2,7 @@
   "servicios_calidad_agua": [
     {
       "id": "1",
-      "Foto": "assets/img/CO.jpg",
+      "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/hero.jpg",
       "nombre": "Control operativo",
       "descripcion": "Monitoreo permanente de la calidad del agua para detectar desviaciones y aplicar acciones correctivas.",
       "elementos_clave": ["Monitoreo continuo", "Acciones correctivas", "Cumplimiento normativo"]
