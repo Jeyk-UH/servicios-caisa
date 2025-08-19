@@ -4,7 +4,7 @@
       "id": "1",
       "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/hero.jpg",
       "nombre": "Control operativo",
-      "descripcion":"Este servicio corresponde al control que realiza el ente operador con el fin de monitorear de forma permanente y sistemática la calidad del agua abastecida. Su propósito es detectar oportunamente cualquier desviación y aplicar acciones correctivas inmediatas en la operación del acueducto, según lo establecido en el Artículo 8. Niveles de Control de Calidad del Agua y Parámetros de Análisis Obligatorios. A través de este servicio, el acueducto podrá asegurar la calidad del agua en el tiempo, cumplir con la normativa vigente, verificar la eficiencia de su sistema de tratamiento e implementar las acciones correctivas necesarias con nuestro acompañamiento y asesoría",
+      "descripcion":"Este servicio corresponde al control que realiza el ente operador con el fin de monitorear de forma permanente y sistemática la calidad del agua abastecida. Su propósito es detectar oportunamente cualquier desviación y aplicar acciones correctivas inmediatas en la operación del acueducto, A través de este servicio, el acueducto podrá asegurar la calidad del agua en el tiempo, cumplir con la normativa vigente, verificar la eficiencia de su sistema de tratamiento e implementar las acciones correctivas necesarias con nuestro acompañamiento y asesoría",
       "resumen": "Monitoreo permanente de la calidad del agua para detectar desviaciones y aplicar acciones correctivas.",
       "elementos_clave": ["Monitoreo continuo", "Acciones correctivas", "Cumplimiento normativo"]
     },
@@ -12,7 +12,7 @@
       "id": "2",
       "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/co.jpg",
       "nombre": "Análisis de calidad del agua",
-      "descripcion":"Según lo establecido en el Artículo 8. Niveles de Control de Calidad del Agua y Parámetros de Análisis Obligatorios, existen cuatro niveles de control de calidad del agua, cada uno con parámetros físico-químicos y microbiológicos específicos que deben ser analizados. En CAISA, contamos con un convenio con nuestro laboratorio aliado Bioanalítica, que posee más de 15 años de experiencia y un equipo de profesionales altamente calificados. Gracias a esta alianza, usted podrá realizar sus análisis de calidad de forma confiable y en estricto cumplimiento con la normativa vigente",
+      "descripcion":"En CAISA, contamos con un convenio con nuestro laboratorio aliado Bioanalítica, que posee más de 15 años de experiencia y un equipo de profesionales altamente calificados. Gracias a esta alianza, usted podrá realizar sus análisis de calidad de forma confiable y en estricto cumplimiento con la normativa vigente",
       "resumen": "Realización de análisis físico-químicos y microbiológicos según los niveles establecidos en la normativa.",
       "elementos_clave": ["Nivel 1", "Nivel 2", "Nivel 3", "Nivel 4"]
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/foto3.jpg",
       "nombre": "Asesorías en calidad del agua",
-      "descripcion": "Somos conscientes de que la normativa relacionada con la calidad del agua es amplia, de alto nivel técnico y requiere inversiones significativas para su cumplimiento. Si su acueducto necesita apoyo técnico para fortalecer sus capacidades en torno a la legislación de calidad del agua potable y la implementación de procedimientos técnicos, como el uso de equipos de monitoreo y control, en CAISA ofrecemos servicios de asesoría especializados. Nuestros profesionales le ayudarán a organizar su área de calidad del agua y a optimizar sus procesos, garantizando un manejo eficiente y conforme a la normativa vigente",
+      "descripcion": "En CAISA entendemos que cumplir con la normativa de calidad del agua requiere conocimientos técnicos e inversión. Por eso ofrecemos asesoría especializada para fortalecer su acueducto, implementar procedimientos técnicos y optimizar el área de calidad del agua, garantizando eficiencia y cumplimiento legal",
       "resumen": "Apoyo técnico para cumplir con la legislación y optimizar procesos de calidad del agua.",
       "elementos_clave": ["Normativa técnica", "Equipos de monitoreo", "Organización del área de calidad"]
     },
@@ -44,7 +44,7 @@
       "id": "6",
       "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/insumo.jpg",
       "nombre": "Insumos para monitoreo de cloro residual",
-      "descripcion": "El monitoreo y control del cloro residual libre en su acueducto es un procedimiento fundamental para garantizar la calidad del agua potable y prevenir la presencia de agentes contaminantes. Por esta razón, en CAISA le brindamos el apoyo necesario para que este procedimiento se realice bajo altos estándares de calidad. Le proporcionamos el equipo y los accesorios adecuados, así como la capacitación técnica necesaria para su correcto uso, asegurando la representatividad de los muestreos y prolongando la vida útil de los equipos. ",
+      "descripcion": "En CAISA apoyamos el monitoreo del cloro residual libre en su acueducto, garantizando agua potable de calidad. Ofrecemos equipos, accesorios y capacitación técnica para asegurar muestreos representativos y prolongar la vida útil de los instrumentos.",
       "resumen": "Suministro de equipos y capacitación para el control del cloro residual libre.",
       "elementos_clave": ["Medidores HANNA", "Reactivos", "Capacitación técnica", "Sobres de medición"]
     }
