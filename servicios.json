@@ -4,7 +4,7 @@
       "id": "1",
       "Foto": "https://raw.githubusercontent.com/Jeyk-UH/servicios-caisa/main/img/hero.jpg",
       "nombre": "Control operativo",
-      "descripcion":"Este servicio corresponde al control que realiza el ente operador con el fin de monitorear de forma permanente y sistemática la calidad del agua abastecida. Su propósito es detectar oportunamente cualquier desviación y aplicar acciones correctivas inmediatas en la operación del acueducto, A través de este servicio, el acueducto podrá asegurar la calidad del agua en el tiempo, cumplir con la normativa vigente, verificar la eficiencia de su sistema de tratamiento e implementar las acciones correctivas necesarias con nuestro acompañamiento y asesoría",
+      "descripcion":"Este servicio permite al operador monitorear de forma continua la calidad del agua abastecida, detectar desviaciones y aplicar correcciones inmediatas. Con nuestro acompañamiento, el acueducto asegura el cumplimiento normativo, verifica la eficiencia del tratamiento y mantiene la calidad del agua en el tiempo.",
       "resumen": "Monitoreo permanente de la calidad del agua para detectar desviaciones y aplicar acciones correctivas.",
       "elementos_clave": ["Monitoreo continuo", "Acciones correctivas", "Cumplimiento normativo"]
     },
